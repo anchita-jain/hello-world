@@ -1,2 +1,2 @@
 # hello-world
-Demo file to familiarise with the Gut functions.
+Demo file to familiarise with the Git functions.
